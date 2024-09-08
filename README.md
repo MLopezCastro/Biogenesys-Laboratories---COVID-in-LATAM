@@ -10,10 +10,6 @@ In this exciting endeavor, we delve into the world of pharmaceutical expansion. 
 
 ---
 
-<div align="center">
-  <h1>**Strategic Expansion of Biogenesys with Python**</h1>
-</div>
-
 As a Data Analyst, I was tasked with a crucial project for **BIOGENESYS**, a pharmaceutical company aiming to identify the optimal locations for expanding its pharmaceutical labs. This analysis was based on data from COVID-19 incidence, vaccination rates, and the availability of healthcare infrastructure in Latin America. The ultimate goal was to improve the company’s response to the effects of the pandemic and post-pandemic environment, ensuring broader access to vaccines.
 
 ### Objectives:
