@@ -8,16 +8,6 @@ Project Scope: Optimizing Pharmaceutical Lab Expansion in LATAM for BIOGENESYS
 
 In this exciting endeavor, we delve into the world of pharmaceutical expansion. My mission? To pinpoint the perfect locations for BIOGENESYS’s new labs across Latin America (LATAM). 🌎💊
 
-As a Data Analyst, I was tasked with a crucial project for **BIOGENESYS**, a pharmaceutical company aiming to identify the optimal locations for expanding its pharmaceutical labs. This analysis was based on data from COVID-19 incidence, vaccination rates, and the availability of healthcare infrastructure in Latin America. The ultimate goal was to improve the company’s response to the effects of the pandemic and post-pandemic environment, ensuring broader access to vaccines.
-
-### Objectives:
-- Conduct exploratory data analysis (EDA) on COVID-19 incidence and other relevant factors to identify trends and opportunities through statistics, measurements, and visualizations.
-- Apply data cleaning techniques to ensure data quality, facilitating reliable analysis and strategic decision-making.
-- Implement efficient ETL (Extract, Transform, Load) processes to enhance access to data, improving the efficacy of analysis and decision-making.
-- Develop interactive dashboards with efficient visualizations, enabling strategic decision-making by exploring data from multiple perspectives.
-
-Through my analysis, I aimed to offer valuable insights on strategic locations for future labs and vaccination centers, addressing vaccine demand, distribution logistics, and existing healthcare infrastructure. This demographic and trend analysis was key to understanding the market environment in Colombia, Argentina, Chile, Mexico, Peru, and Brazil.
-
 ---
 
 ### **First Phase: Data Loading and Transformation**
