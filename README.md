@@ -10,16 +10,6 @@ In this exciting endeavor, we delve into the world of pharmaceutical expansion. 
 
 ---
 
-### **First Phase: Data Loading and Transformation**
-
-For this first phase, I focused on the dataset provided, which was substantial—around 21 GB, with approximately 22 million records and 707 columns. To facilitate this, the data engineering team provided a smaller, Latin America-focused dataset with 12,216,057 rows and 50 columns. My goal was to ensure that this refined dataset was clean and ready for the subsequent analysis stages. Proper data preparation and cleaning are fundamental for any reliable analysis.
-
----
-
-### **Second Phase: Exploratory Data Analysis (EDA) & Visualization**
-
-With the data cleaned, I moved into exploratory data analysis to extract valuable insights that would guide the strategic planning of BIOGENESYS’s lab expansion. By creating clear and detailed visualizations, I sought to uncover patterns, trends, and anomalies in COVID-19 incidence rates, vaccination coverage, and healthcare infrastructure. The insights derived from this phase helped direct leadership toward the best locations for maximizing the positive impact on public health.
-
 <div align="center">
   <h1>**Strategic Expansion of Biogenesys with Python**</h1>
 </div>
