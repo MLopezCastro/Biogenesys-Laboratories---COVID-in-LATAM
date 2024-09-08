@@ -1,4 +1,4 @@
-# Biogenesys Laboratories Expansion Strategies in-LATAM
+# <center>Biogenesys Laboratories Expansion Strategies in-LATAM</center>
 
 <p align="center">
   <img src="https://github.com/MLopezCastro/Biogenesys-Laboratories---COVID-in-LATAM/blob/main/logo.png" alt="Biogenesys Logo">
