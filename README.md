@@ -1,10 +1,6 @@
 # Biogenesys-Laboratories---COVID-in-LATAM
 
 <p align="center">
-  <strong># Biogenesys-Laboratories---COVID-in-LATAM</strong>
-</p>
-
-<p align="center">
   <img src="https://github.com/MLopezCastro/Biogenesys-Laboratories---COVID-in-LATAM/blob/main/logo.png" alt="Biogenesys Logo">
 </p>
 
