@@ -1,4 +1,3 @@
-# <center>Biogenesys Laboratories Expansion Strategies in-LATAM</center>
 
 <h1 align="center">Biogenesys Laboratories Expansion Strategies in LATAM</h1>
 
